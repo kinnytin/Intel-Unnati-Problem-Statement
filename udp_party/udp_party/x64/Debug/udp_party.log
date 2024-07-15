@@ -1,0 +1,11 @@
+﻿  crypto_wrapper_openssl.cpp
+C:\Users\HP\Downloads\intel_unnati_adventurers-main\intel_unnati_adventurers-main\udp_party\crypto_wrapper_openssl.cpp(104,48): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\HP\Downloads\intel_unnati_adventurers-main\intel_unnati_adventurers-main\udp_party\crypto_wrapper_openssl.cpp(111,57): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\HP\Downloads\intel_unnati_adventurers-main\intel_unnati_adventurers-main\udp_party\crypto_wrapper_openssl.cpp(118,51): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\HP\Downloads\intel_unnati_adventurers-main\intel_unnati_adventurers-main\udp_party\crypto_wrapper_openssl.cpp(206,47): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\HP\Downloads\intel_unnati_adventurers-main\intel_unnati_adventurers-main\udp_party\crypto_wrapper_openssl.cpp(210,67): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\HP\Downloads\intel_unnati_adventurers-main\intel_unnati_adventurers-main\udp_party\crypto_wrapper_openssl.cpp(295,49): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\HP\Downloads\intel_unnati_adventurers-main\intel_unnati_adventurers-main\udp_party\crypto_wrapper_openssl.cpp(299,67): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\HP\Downloads\intel_unnati_adventurers-main\intel_unnati_adventurers-main\udp_party\crypto_wrapper_openssl.cpp(532,2): warning C4102: 'err': unreferenced label
+C:\Users\HP\Downloads\intel_unnati_adventurers-main\intel_unnati_adventurers-main\udp_party\crypto_wrapper_openssl.cpp(660,36): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  udp_party.vcxproj -> C:\Users\HP\Downloads\intel_unnati_adventurers-main\intel_unnati_adventurers-main\udp_party\x64\Debug\udp_party.exe
